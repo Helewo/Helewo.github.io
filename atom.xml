@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Helewo.github.io</id>
     <title>栈点 | Helewo</title>
-    <updated>2020-05-12T06:53:11.536Z</updated>
+    <updated>2020-05-12T14:50:20.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Helewo.github.io"/>
     <link rel="self" href="https://Helewo.github.io/atom.xml"/>
@@ -11,14 +11,45 @@
     <icon>https://Helewo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 栈点 | Helewo</rights>
     <entry>
+        <title type="html"><![CDATA[关于新坑==>MCBG]]></title>
+        <id>https://Helewo.github.io/post/2/</id>
+        <link href="https://Helewo.github.io/post/2/">
+        </link>
+        <updated>2020-05-12T14:44:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>fafafa,对1.8版本MCBG的重置工作内容..<br>
+达成80%啦!!😘</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>fafafa,对1.8版本MCBG的重置工作内容..<br>
+达成80%啦!!😘</p>
+<!-- more -->
+<p>内容完成度已经接近80%<br>
+相比上一次的更新,完成了:<br>
+材质包的整合!<br>
+子弹的革新!<br>
+加载区块烦恼的新方法!!(咕咕咕的主要原因)</p>
+<p>因为这次扁桃体炎,在家休整了一两天...<br>
+还剩下一些没做完:<br>
+万恶的空投<br>
+憨憨的轰炸区<br>
+嬗变的options设置内容...<br>
+希望这次周末能搞定罢_(:з」∠)_</p>
+<p><img src="https://Helewo.github.io/post-images/1589294986996.jpg" alt="" loading="lazy"><br>
+↓↓在下方可以为我留言喔!</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新的开始,新的起点!]]></title>
         <id>https://Helewo.github.io/post/1/</id>
         <link href="https://Helewo.github.io/post/1/">
         </link>
         <updated>2020-05-12T06:40:41.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://Helewo.github.io/post-images/1589265702722.jpg" alt="" loading="lazy"><br>
+        <summary type="html"><![CDATA[<p>欢迎首次来到本栈点!0 0</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>欢迎首次来到本栈点!0 0</p>
+<!-- more -->
+<p><img src="https://Helewo.github.io/post-images/1589265702722.jpg" alt="" loading="lazy"><br>
 其实早些年就用过vb.net做过网站了,不过不是太好康<br>
-当然只是测试的模板罢了_(:з」∠)_</p>
+当然这里只是测试的模板罢了_(:з」∠)_</p>
 ]]></content>
     </entry>
 </feed>

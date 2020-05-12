@@ -1,10 +1,11 @@
 
+<!DOCTYPE html>
 <html>
   <head>
     
 <meta charset="utf-8" >
 
-<title>栈点 | Helewo</title>
+<title>关于新坑==&gt;MCBG | 栈点 | Helewo</title>
 <meta name="description" content="Fa">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -15,6 +16,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://Helewo.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -77,71 +84,55 @@
 
 
       <div class="content-container">
-        
-        
-<section class="post-item">
-    <div class="content">
-      <a href="https://Helewo.github.io/post/1/">
-        <h2 class="post-title">新的开始,新的起点!</h2>
-      </a>
-      <div class="post-abstract">
-        <p>欢迎首次来到本栈点!0 0</p>
-
-      </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2020-05-12</span>
-        
-          <span>
-            <i class="icon icon-pricetags-outline"></i>
+        <div class="post-detail">
+          
+            <div class="feature-container" style="background-image: url('https://Helewo.github.io/post-images/2.png')">
+            </div>
+          
+          <h2 class="post-title">关于新坑==&gt;MCBG</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-05-12</span>
             
-              <a href="https://Helewo.github.io/tag/uvPB86nID/">
-                才不是因为不知写什么好才会这样!
-                
-              </a>
-            
-          </span>
-        
-      </div>
-    </div>
-    
-      <a href="https://Helewo.github.io/post/1/">
-        <div class="feature-container" style="background-image: url('https://Helewo.github.io/post-images/1.jpg')">
-        </div>
-      </a>
-    
-  </section>
-
-<section class="post-item">
-    <div class="content">
-      <a href="https://Helewo.github.io/post/2/">
-        <h2 class="post-title">关于新坑==&gt;MCBG</h2>
-      </a>
-      <div class="post-abstract">
-        <p>fafafa,对1.8版本MCBG的重置工作内容..<br>
+          </div>
+          <div class="post-content">
+            <p>fafafa,对1.8版本MCBG的重置工作内容..<br>
 达成80%啦!!😘</p>
+<!-- more -->
+<p>内容完成度已经接近80%<br>
+相比上一次的更新,完成了:<br>
+材质包的整合!<br>
+子弹的革新!<br>
+加载区块烦恼的新方法!!(咕咕咕的主要原因)</p>
+<p>因为这次扁桃体炎,在家休整了一两天...<br>
+还剩下一些没做完:<br>
+万恶的空投<br>
+憨憨的轰炸区<br>
+嬗变的options设置内容...<br>
+希望这次周末能搞定罢_(:з」∠)_</p>
+<p><img src="https://Helewo.github.io/post-images/1589294986996.jpg" alt="" loading="lazy"><br>
+↓↓在下方可以为我留言喔!</p>
 
-      </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2020-05-12</span>
-        
-      </div>
-    </div>
-    
-      <a href="https://Helewo.github.io/post/2/">
-        <div class="feature-container" style="background-image: url('https://Helewo.github.io/post-images/2.png')">
+          </div>
         </div>
-      </a>
-    
-  </section>
 
-
-<div class="pagination-container">
-  
-  
-</div>
-
-
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://Helewo.github.io/post/1/">
+              <h3 class="post-title">
+                下一篇：新的开始,新的起点!
+              </h3>
+            </a>
+          </div>
+          
       </div>
+
+      
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
 
       <div class="site-footer">
   <div class="slogan">Fa</div>
@@ -175,6 +166,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'c013392db3433d579572',
+        clientSecret: 'ce7ffdbf86090d1ae4b9f741888888f11563a273',
+        repo: 'Helewo.github.io',
+        owner: 'Helewo',
+        admin: ['Helewo'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
