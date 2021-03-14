@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Helewo.github.io</id>
     <title>栈点 | Helewo</title>
-    <updated>2021-03-14T04:28:29.696Z</updated>
+    <updated>2021-03-14T04:29:57.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Helewo.github.io"/>
     <link rel="self" href="https://Helewo.github.io/atom.xml"/>
@@ -16,12 +16,8 @@
         <link href="https://Helewo.github.io/post/randomplayer-greatersui-ji-xue-hao-chou-qu-qi/">
         </link>
         <updated>2021-03-14T04:19:31.000Z</updated>
-        <summary type="html"><![CDATA[<p>下载地址:https://wws.lanzous.com/i4YCJmx0afa<br>
-原创.</p>
-]]></summary>
         <content type="html"><![CDATA[<p>下载地址:https://wws.lanzous.com/i4YCJmx0afa<br>
 原创.</p>
-<!-- more -->
 <p>A.<br>
 选中某一文档(目前只支持txt),右键属性安全复制其所在的地址<br>
 其中文档的文字一行一个名字,您可以从excel的名单中复制他们<br>
