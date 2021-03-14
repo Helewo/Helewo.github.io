@@ -2,14 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Helewo.github.io</id>
     <title>栈点 | Helewo</title>
-    <updated>2020-05-12T14:50:20.680Z</updated>
+    <updated>2021-03-14T04:28:29.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Helewo.github.io"/>
     <link rel="self" href="https://Helewo.github.io/atom.xml"/>
     <subtitle>Fa</subtitle>
     <logo>https://Helewo.github.io/images/avatar.png</logo>
     <icon>https://Helewo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 栈点 | Helewo</rights>
+    <rights>All rights reserved 2021, 栈点 | Helewo</rights>
+    <entry>
+        <title type="html"><![CDATA[RandomPlayer-->随机学号抽取器🖱]]></title>
+        <id>https://Helewo.github.io/post/randomplayer-greatersui-ji-xue-hao-chou-qu-qi/</id>
+        <link href="https://Helewo.github.io/post/randomplayer-greatersui-ji-xue-hao-chou-qu-qi/">
+        </link>
+        <updated>2021-03-14T04:19:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>下载地址:https://wws.lanzous.com/i4YCJmx0afa<br>
+原创.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>下载地址:https://wws.lanzous.com/i4YCJmx0afa<br>
+原创.</p>
+<!-- more -->
+<p>A.<br>
+选中某一文档(目前只支持txt),右键属性安全复制其所在的地址<br>
+其中文档的文字一行一个名字,您可以从excel的名单中复制他们<br>
+PS:要保存为ANSI格式<br>
+B.<br>
+将地址粘贴输入后,您可以点击&quot;储存地址&quot;按钮来储存他们<br>
+这样您下次打开的时候就可以自动加载地址.<br>
+C.<br>
+抽一次的间隔为0.1秒(100ms),请自行检查设置的时间<br>
+(如果很懒的话您可以让系统帮你填_(:з」∠)_)<br>
+(点击一次文本框会自动清除文字)<br>
+D.<br>
+其他问题您可以咨询制作者本人</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github上一个游戏检索. 0 0🤠]]></title>
+        <id>https://Helewo.github.io/post/github-shang-yi-ge-you-xi-jian-suo-0-0/</id>
+        <link href="https://Helewo.github.io/post/github-shang-yi-ge-you-xi-jian-suo-0-0/">
+        </link>
+        <updated>2021-03-14T03:37:41.000Z</updated>
+        <content type="html"><![CDATA[<p>https://jcw87.github.io<br>
+内有Super mario,还有sans模拟器<br>
+还有一些架构ummm....</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything-->更快地检索文件💻]]></title>
+        <id>https://Helewo.github.io/post/everything-greatergeng-kuai-di-jian-suo-wen-jian/</id>
+        <link href="https://Helewo.github.io/post/everything-greatergeng-kuai-di-jian-suo-wen-jian/">
+        </link>
+        <updated>2021-03-14T03:35:07.000Z</updated>
+        <content type="html"><![CDATA[<p>相比win系统自带的检索<br>
+everything在这一方面可以做到快10倍甚至于100倍.😊<br>
+官方网站:https://www.voidtools.com/zh-cn/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于新坑==>MCBG]]></title>
         <id>https://Helewo.github.io/post/2/</id>
