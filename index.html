@@ -1,187 +1,261 @@
-
+<!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
+    <meta charset="utf-8" >
 
 <title>栈点 | Helewo</title>
-<meta name="description" content="Fa">
+<meta name="description" content="平平无奇的小栖息地">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+<link rel="shortcut icon" href="https://Helewo.github.io/favicon.ico?v=1653578617284">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://Helewo.github.io/favicon.ico?v=1653538823984">
+<link rel="stylesheet" href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://Helewo.github.io/styles/main.css">
 
 
-
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 
   </head>
   <body>
-    <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://Helewo.github.io">
-        <img class="avatar" src="https://Helewo.github.io/images/avatar.png?v=1653538823984" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://Helewo.github.io">
-        <h1 class="site-title">栈点 | Helewo</h1>
-      </a>
-    </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
+    <nav class="navbar border fixed split-nav">
+  <div class="nav-brand">
+    <h3><a href="https://Helewo.github.io">栈点 | Helewo</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+      <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+        
+          <li>
+            
+              <a href="/" class="menu">
+                首页
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/archives" class="menu">
+                归档
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/tags" class="menu">
+                标签
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/post/about" class="menu">
+                关于
+              </a>
+            
+          </li>
+        
+      </ul>
     </div>
   </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
-      
-        
-          <a href="/" class="menu purple-link">
-            首页
-          </a>
-        
-      
-        
-          <a href="/archives" class="menu purple-link">
-            归档
-          </a>
-        
-      
-        
-          <a href="/tags" class="menu purple-link">
-            标签
-          </a>
-        
-      
-        
-          <a href="/post/about" class="menu purple-link">
-            关于
-          </a>
-        
-      
-    </div>
-  </div>
-</transition>
+</nav>
 
 
-      <div class="content-container">
-        
-        
-<section class="post-item">
-    <div class="content">
-      <a href="https://Helewo.github.io/post/zhong-yi-ji-chu-li-lun-jiao-cai-ppt-zheng-he/">
-        <h2 class="post-title">中医基础理论教材PPT整合</h2>
+    <div id="top" class="row site">
+      <div class="sm-12 md-8 col">
+        <div class="paper">
+          
+  <article class="article">
+    <h2 class="article-title">
+      <a href="https://Helewo.github.io/post/zhong-yi-ji-chu-li-lun-jiao-cai-ppt-zheng-he/">中医基础理论教材PPT整合📃</a>
+    </h2>
+    <p class="article-meta">
+      2021-09-04
+      
+    </p>
+    <p class="text-lead">
+      
+    </p>
+    <div class="row">
+      <a href="https://Helewo.github.io/post/zhong-yi-ji-chu-li-lun-jiao-cai-ppt-zheng-he/" class="readmore-link">
+        <button>
+          Read More
+        </button>
       </a>
-      <div class="post-abstract">
-        
-      </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2021-09-04</span>
-        
-      </div>
     </div>
-    
-  </section>
+  </article>
 
-<section class="post-item">
-    <div class="content">
-      <a href="https://Helewo.github.io/post/randomplayer-greatersui-ji-xue-hao-chou-qu-qi/">
-        <h2 class="post-title">RandomPlayer--&gt;随机学号抽取器🖱</h2>
+  <article class="article">
+    <h2 class="article-title">
+      <a href="https://Helewo.github.io/post/randomplayer-greatersui-ji-xue-hao-chou-qu-qi/">RandomPlayer--&gt;随机学号抽取器🖱</a>
+    </h2>
+    <p class="article-meta">
+      2021-03-14
+      
+    </p>
+    <p class="text-lead">
+      
+    </p>
+    <div class="row">
+      <a href="https://Helewo.github.io/post/randomplayer-greatersui-ji-xue-hao-chou-qu-qi/" class="readmore-link">
+        <button>
+          Read More
+        </button>
       </a>
-      <div class="post-abstract">
-        
-      </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2021-03-14</span>
-        
-      </div>
     </div>
-    
-  </section>
+  </article>
 
-<section class="post-item">
-    <div class="content">
-      <a href="https://Helewo.github.io/post/github-shang-yi-ge-you-xi-jian-suo-0-0/">
-        <h2 class="post-title">Github上一个游戏检索. 0 0🤠</h2>
+  <article class="article">
+    <h2 class="article-title">
+      <a href="https://Helewo.github.io/post/github-shang-yi-ge-you-xi-jian-suo-0-0/">Github上一个游戏检索🤠</a>
+    </h2>
+    <p class="article-meta">
+      2021-03-14
+      
+    </p>
+    <p class="text-lead">
+      
+    </p>
+    <div class="row">
+      <a href="https://Helewo.github.io/post/github-shang-yi-ge-you-xi-jian-suo-0-0/" class="readmore-link">
+        <button>
+          Read More
+        </button>
       </a>
-      <div class="post-abstract">
-        
-      </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2021-03-14</span>
-        
-      </div>
     </div>
-    
-  </section>
+  </article>
 
-<section class="post-item">
-    <div class="content">
-      <a href="https://Helewo.github.io/post/everything-greatergeng-kuai-di-jian-suo-wen-jian/">
-        <h2 class="post-title">Everything--&gt;更快地检索文件💻</h2>
+  <article class="article">
+    <h2 class="article-title">
+      <a href="https://Helewo.github.io/post/everything-greatergeng-kuai-di-jian-suo-wen-jian/">Everything--&gt;更快地检索文件💻</a>
+    </h2>
+    <p class="article-meta">
+      2021-03-14
+      
+    </p>
+    <p class="text-lead">
+      
+    </p>
+    <div class="row">
+      <a href="https://Helewo.github.io/post/everything-greatergeng-kuai-di-jian-suo-wen-jian/" class="readmore-link">
+        <button>
+          Read More
+        </button>
       </a>
-      <div class="post-abstract">
-        
-      </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2021-03-14</span>
-        
-      </div>
     </div>
-    
-  </section>
+  </article>
 
 
-<div class="pagination-container">
+        </div>
+        
+        <div class="row flex-edges">
   
   
 </div>
 
-
       </div>
-
-      <div class="site-footer">
-  <div class="slogan">Fa</div>
-  <div class="social-container">
-    
       
-    
+      <div class="sm-12 md-4 col sidebar">
+  <div class="paper info-container">
+    <img src="https://Helewo.github.io/images/avatar.png?v=1653578617284" class="no-responsive avatar">
+    <div class="text-muted">平平无奇的小栖息地</div>
+    <div class="social-container">
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
+      
+        
+      
+    </div>
   </div>
-  Powered by Helewo | <a class="rss" href="https://Helewo.github.io/atom.xml" target="_blank">RSS</a>
+  <div class="paper">
+    <div class="sidebar-title">
+      最新文章
+    </div>
+    <div class="row">
+      <ul>
+        
+          
+            <li>
+              <a href="https://Helewo.github.io/post/zhong-yi-ji-chu-li-lun-jiao-cai-ppt-zheng-he/">中医基础理论教材PPT整合📃</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="https://Helewo.github.io/post/randomplayer-greatersui-ji-xue-hao-chou-qu-qi/">RandomPlayer--&gt;随机学号抽取器🖱</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="https://Helewo.github.io/post/github-shang-yi-ge-you-xi-jian-suo-0-0/">Github上一个游戏检索🤠</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="https://Helewo.github.io/post/everything-greatergeng-kuai-di-jian-suo-wen-jian/">Everything--&gt;更快地检索文件💻</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="https://Helewo.github.io/post/2/">关于新坑==&gt;MCBG</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="https://Helewo.github.io/post/1/">新的开始,新的起点!</a>
+            </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+  <div class="paper">
+    <div class="sidebar-title">
+      标签列表
+    </div>
+    <div class="row">
+      
+    </div>
+  </div>
+  <div class="paper">
+    Powered by Helewo | <a class="rss" href="https://Helewo.github.io/atom.xml" target="_blank">RSS</a>
+  </div>
 </div>
 
-
     </div>
-    <script type="application/javascript">
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
 
 hljs.initHighlightingOnLoad()
-
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
 
 </script>
 
