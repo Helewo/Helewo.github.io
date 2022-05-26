@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Helewo.github.io</id>
     <title>栈点 | Helewo</title>
-    <updated>2022-05-08T09:28:15.625Z</updated>
+    <updated>2022-05-26T04:20:30.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Helewo.github.io"/>
     <link rel="self" href="https://Helewo.github.io/atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://Helewo.github.io/post/zhong-yi-ji-chu-li-lun-jiao-cai-ppt-zheng-he/">
         </link>
         <updated>2021-09-04T10:36:44.000Z</updated>
-        <content type="html"><![CDATA[<p>本着便利自己也顺便便利他人的初心弄的<br>
-如有出现传播过多导致一系列事件我将立马删除_(:з」∠)_</p>
+        <content type="html"><![CDATA[<p>早先年间本着便利自己也顺便便利他人的初心弄的</p>
 <p>绪论-中医理论体系的主要特点<br>
 https://jcdoc.e-lesson.cn/view/zaTkKjp<br>
 绪论-中医理论体系形成与发展<br>
@@ -29,12 +28,8 @@ https://jcdoc.e-lesson.cn/view/ZivasOp<br>
 中医学的哲学基础-阴阳学说<br>
 https://jcdoc.e-lesson.cn/view/cyZWEXp<br>
 还有很多还没发,如果有需要请QQ联系:1760775253√<br>
-我已将文件打包,如有需要请联系自取.</p>
-<p>后记:<br>
-这破玩意就让我整理了3个小时<br>
-不可能让你下次一定和白嫖了哈,这个巨几把麻烦<br>
-妈的这个鬼东西我下三个就让我重新登录一次我容易吗我cao<br>
-合集包有需要的直接QQ联系见面</p>
+一个个发在这里太麻烦了<br>
+我已将文件打包,如有需要请联系自取.😇</p>
 ]]></content>
     </entry>
     <entry>
@@ -43,12 +38,17 @@ https://jcdoc.e-lesson.cn/view/cyZWEXp<br>
         <link href="https://Helewo.github.io/post/randomplayer-greatersui-ji-xue-hao-chou-qu-qi/">
         </link>
         <updated>2021-03-14T04:19:31.000Z</updated>
-        <content type="html"><![CDATA[<p>下载地址:https://wwd.lanzouf.com/i4YCJmx0afa<br>
-原创.</p>
-<p>A.<br>
-选中某一文档(目前只支持txt),右键属性安全复制其所在的地址<br>
-其中文档的文字一行一个名字,您可以从excel的名单中复制他们<br>
-PS:要保存为ANSI格式<br>
+        <content type="html"><![CDATA[<p>下载地址:<br>
+https://wwd.lanzouf.com/i4YCJmx0afa<br>
+个人原创.</p>
+<p>使用方法:<br>
+A.<br>
+选中某一文档文件(目前只支持txt),右键--属性--安全--复制其所在的地址<br>
+<img src="https://Helewo.github.io/post-images/1653538627360.png" alt="" loading="lazy"><br>
+其中文档的文字一行一个名字,您可以从excel的名单中复制粘贴进去<br>
+<img src="https://Helewo.github.io/post-images/1653538715337.png" alt="" loading="lazy"><br>
+PS:最后txt文档要保存为ANSI格式<br>
+<img src="https://Helewo.github.io/post-images/1653538784623.png" alt="" loading="lazy"><br>
 B.<br>
 将地址粘贴输入后,您可以点击&quot;储存地址&quot;按钮来储存他们<br>
 这样您下次打开的时候就可以自动加载地址.<br>
@@ -57,7 +57,8 @@ C.<br>
 (如果很懒的话您可以让系统帮你填_(:з」∠)_)<br>
 (点击一次文本框会自动清除文字)<br>
 D.<br>
-其他问题您可以咨询制作者本人</p>
+其他问题您可以咨询制作者本人<br>
+或者可以在下方评论区留言</p>
 ]]></content>
     </entry>
     <entry>
@@ -80,21 +81,6 @@ D.<br>
         <content type="html"><![CDATA[<p>相比win系统自带的检索<br>
 everything在这一方面可以做到快10倍甚至于100倍.😊<br>
 官方网站:https://www.voidtools.com/zh-cn/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的开始,新的起点!]]></title>
-        <id>https://Helewo.github.io/post/1/</id>
-        <link href="https://Helewo.github.io/post/1/">
-        </link>
-        <updated>2020-05-12T06:40:41.000Z</updated>
-        <summary type="html"><![CDATA[<p>欢迎首次来到本栈点!0 0</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>欢迎首次来到本栈点!0 0</p>
-<!-- more -->
-<p><img src="https://Helewo.github.io/post-images/1589265702722.jpg" alt="" loading="lazy"><br>
-其实早些年就用过vb.net做过网站了,不过不是太好康<br>
-当然这里只是测试的模板罢了_(:з」∠)_</p>
 ]]></content>
     </entry>
 </feed>
