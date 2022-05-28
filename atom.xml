@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Helewo.github.io</id>
     <title>栈点 | Helewo</title>
-    <updated>2022-05-28T09:12:34.447Z</updated>
+    <updated>2022-05-28T15:17:05.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Helewo.github.io"/>
     <link rel="self" href="https://Helewo.github.io/atom.xml"/>
@@ -121,14 +121,10 @@
 可以合成分泌胶原蛋白/弹性蛋白,参与构成三种纤维,合成分泌基质<br>
 <code>纤维细胞</code>可以转变为成纤维细胞</li>
 <li><strong>巨噬细胞</strong><br>
-拥有以下功能:</li>
-</ul>
-<ol>
-<li>行使特异性与非特异性吞噬功能</li>
-<li>参与免疫应答</li>
-<li>活跃的分泌功能,具有防御作用</li>
-</ol>
-<ul>
+拥有以下功能:<br>
+1.行使特异性与非特异性吞噬功能<br>
+2.参与免疫应答<br>
+3.活跃的分泌功能,具有防御作用</li>
 <li><strong>浆细胞</strong><br>
 来源于B淋巴细胞<br>
 可以合成与分泌抗体,参与体液免疫</li>
@@ -141,14 +137,10 @@
 可增殖分化为成纤维细胞/平滑肌细胞/血管内皮细胞进行创伤修复</li>
 <li><strong>致密结缔组织</strong><br>
 以支持和连接作用主要功能<br>
-分为三种以下类型:</li>
-</ul>
-<ol>
-<li>规则致密结缔组织</li>
-<li>不规则致密结缔组织</li>
-<li>弹性组织</li>
-</ol>
-<ul>
+分为三种以下类型:<br>
+1.规则致密结缔组织<br>
+2.不规则致密结缔组织<br>
+3.弹性组织</li>
 <li><strong>脂肪组织</strong><br>
 分为两种以下类型:</li>
 </ul>
@@ -170,6 +162,31 @@
 <img src="https://Helewo.github.io/post-images/1653728527191.png" alt="" loading="lazy"><br>
 软骨组织由软骨细胞和软骨基质构成<br>
 骨组织由细胞和钙化的细胞外基质构成</li>
+</ul>
+<p>三种软骨组织:<br>
+1.<code>透明软骨</code><br>
+较强抗压性,有一定的弹性韧性<br>
+2.<code>纤维软骨</code><br>
+韧性强大,连接保护作用<br>
+3.<code>弹性软骨</code><br>
+较强的弹性</p>
+<p>骨组织细胞:<br>
+1.<code>骨祖细胞</code><br>
+为干细胞,可分化为成骨细胞和成软骨细胞<br>
+2.<code>成骨细胞</code><br>
+合成分泌骨基质的有机成分,形成类骨质<br>
+调节骨组织的生成吸收与代谢<br>
+3.<code>骨细胞</code><br>
+通过<code>骨小管</code>与<code>骨陷窝</code><br>
+参与调节钙与磷的吸收<br>
+4.<code>破骨细胞</code><br>
+为多核巨细胞<br>
+释放多种水解酶与有机酸,溶解吸收骨基质<br>
+参与骨的生长与改造</p>
+<p>骨单位:<br>
+又称<code>哈弗斯系统</code><br>
+数层哈弗斯骨板围绕中央管(又称<code>哈弗斯管</code>)组成</p>
+<ul>
 <li><strong>血液</strong><br>
 <img src="https://Helewo.github.io/post-images/1653728875947.png" alt="" loading="lazy"></li>
 <li><strong>红细胞</strong><br>
@@ -178,13 +195,34 @@
 具有一定的弹性和可塑性<br>
 细胞数量或血红蛋白含量低可称<code>贫血</code><br>
 红细胞膜破裂溢出血红蛋白可称<code>溶血</code><br>
-新生红细胞残有部分核糖体,称之<code>网织红细胞</code>,其数量是评估骨髓造血功能与评判贫血患者疗效的指标</li>
-<li><strong>中性粒细胞</strong></li>
-<li><strong>嗜酸性粒细胞</strong></li>
-<li><strong>嗜碱性粒细胞</strong></li>
-<li><strong>淋巴细胞</strong></li>
-<li><strong>单核细胞</strong></li>
-<li><strong>血小板</strong></li>
+新生红细胞残有部分核糖体,称之<code>网织红细胞</code><br>
+其数量是评估骨髓造血功能与评判贫血患者疗效的指标</li>
+<li><strong>中性粒细胞</strong><br>
+数量最多的白细胞<br>
+核呈分叶状,正常情况2-3叶,其数量与其衰老程度成正比<br>
+具有活跃的变形吞噬能力</li>
+<li><strong>嗜酸性粒细胞</strong><br>
+可抑制过敏反应<br>
+阳离子蛋白可杀伤寄生虫</li>
+<li><strong>嗜碱性粒细胞</strong><br>
+胞质含有白三烯<br>
+可启动炎症反应,参与过敏反应</li>
+<li><strong>淋巴细胞</strong><br>
+可分为三种:<br>
+1.胸腺依赖淋巴细胞(T)<br>
+参与细胞免疫<br>
+2.骨髓依赖淋巴细胞(B)<br>
+增殖分化为浆细胞,参与体液免疫<br>
+3.自然杀伤细胞(NK)<br>
+直接杀伤肿瘤与细菌感染细胞</li>
+<li><strong>单核细胞</strong><br>
+核为肾形<br>
+可演化为巨噬细胞<br>
+活跃强大的变形吞噬能力</li>
+<li><strong>血小板</strong><br>
+有巨核细胞脱落形成,具有止血凝血作用<br>
+开放小管系统用于摄取释放物质<br>
+致密小管系统用于收集钙离子与合成前列腺素等物质</li>
 </ul>
 <h1 id="-肌组织">- 肌组织</h1>
 <h1 id="-神经组织">- 神经组织</h1>
