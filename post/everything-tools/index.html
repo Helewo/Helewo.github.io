@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>教程系列 | 栈点 | Helewo</title>
+<title>Everything--&gt;更快地检索文件💻 | 栈点 | Helewo</title>
 <meta name="description" content="平平无奇的小栖息地">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -15,6 +15,12 @@
 <link rel="stylesheet" href="https://Helewo.github.io/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
@@ -23,6 +29,7 @@
 
   </head>
   <body>
+  
     <nav class="navbar border fixed split-nav">
   <div class="nav-brand">
     <h3><a href="https://Helewo.github.io">栈点 | Helewo</a></h3>
@@ -79,43 +86,39 @@
     <div id="top" class="row site">
       <div class="sm-12 md-8 col">
         <div class="paper">
-          <h2 class="current-tag">标签: 教程系列</h2>
-          
-  <article class="article">
-    <h2 class="article-title">
-      <a href="https://Helewo.github.io/post/PCtoProjecter/">在投影仪上投影自己的电脑屏幕!📹</a>
-    </h2>
-    <p class="article-meta">
-      2022-05-26
-      
-        <a href="https://Helewo.github.io/tag/uypURhexh/" class="badge secondary">
-          教程系列
-        </a>
-      
-    </p>
-    <p class="text-lead">
-      <p>大火基本都会使用u盘或者网盘去上传自己的文件比如ppt这种<br>
-但是教室电脑因为年代久远不仅出现卡的要死,还会出现环境不兼容,ppt直接卡死的情况<br>
-所以一般的话,我就会选择直接用电脑连接投影仪,这样免得担心刚刚所说的问题</p>
+          <article class="article">
+            <h1>Everything--&gt;更快地检索文件💻</h1>
+            <p class="article-meta">
+              2021-03-14
+              
+                <a href="https://Helewo.github.io/tag/dp1XV0KtN/" class="badge secondary">
+                  资源系列
+                </a>
+              
+            </p>
+            
+            <div class="post-content">
+              <p>相比win系统自带的检索<br>
+everything在这一方面可以做到快10倍甚至于100倍.😊<br>
+官方网站:https://www.voidtools.com/zh-cn/</p>
 
-    </p>
-    <div class="row">
-      <a href="https://Helewo.github.io/post/PCtoProjecter/" class="readmore-link">
-        <button>
-          Read More
-        </button>
-      </a>
-    </div>
-  </article>
-
-
+            </div>
+          </article>
         </div>
-        <div class="row flex-edges">
-  
-  
-</div>
+        <div class="paper" data-aos="fade-in">
+          
+        </div>
+        
+          
+            <div class="paper" data-aos="fade-in">
+              <div id="gitalk-container"></div>
+            </div>
+          
 
+          
+        
       </div>
+
       <div class="sm-12 md-4 col sidebar">
   <div class="paper info-container">
     <img src="https://Helewo.github.io/images/avatar.png?v=1653835261286" class="no-responsive avatar">
@@ -190,15 +193,15 @@
           教程系列
         </a>
       
-        <a href="https://Helewo.github.io/tag/I8eapM_X5/" class="badge secondary">
+        <a href="https://Helewo.github.io/tag/I8eapM_X5/" class="badge ">
           学术系列
         </a>
       
-        <a href="https://Helewo.github.io/tag/dp1XV0KtN/" class="badge warning">
+        <a href="https://Helewo.github.io/tag/dp1XV0KtN/" class="badge success">
           资源系列
         </a>
       
-        <a href="https://Helewo.github.io/tag/ba83fvr-B/" class="badge success">
+        <a href="https://Helewo.github.io/tag/ba83fvr-B/" class="badge warning">
           娱乐系列
         </a>
       
@@ -208,6 +211,7 @@
     Powered by Helewo | <a class="rss" href="https://Helewo.github.io/atom.xml" target="_blank">RSS</a>
   </div>
 </div>
+
 
     </div>
 
@@ -220,6 +224,29 @@ AOS.init();
 hljs.initHighlightingOnLoad()
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'c013392db3433d579572',
+        clientSecret: 'ce7ffdbf86090d1ae4b9f741888888f11563a273',
+        repo: 'Helewo.github.io',
+        owner: 'Helewo',
+        admin: ['Helewo'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
