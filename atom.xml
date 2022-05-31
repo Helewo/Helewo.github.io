@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Helewo.github.io</id>
     <title>栈点 | Helewo</title>
-    <updated>2022-05-29T14:41:02.737Z</updated>
+    <updated>2022-05-31T07:54:23.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Helewo.github.io"/>
     <link rel="self" href="https://Helewo.github.io/atom.xml"/>
@@ -186,6 +186,10 @@
 <p>骨单位:<br>
 又称<code>哈弗斯系统</code><br>
 数层哈弗斯骨板围绕中央管(又称<code>哈弗斯管</code>)组成</p>
+<p>同源细胞群:<br>
+越靠近软骨中央,软骨细胞越成熟,体积越大<br>
+呈圆形或椭圆形,常成群分布,每群由一个幼稚软骨细胞分裂而来<br>
+可称<code>同源细胞群</code></p>
 <ul>
 <li><strong>血液</strong><br>
 <img src="https://Helewo.github.io/post-images/1653728875947.png" alt="" loading="lazy"></li>
@@ -225,13 +229,114 @@
 致密小管系统用于收集钙离子与合成前列腺素等物质</li>
 </ul>
 <h1 id="-肌组织">- 肌组织</h1>
+<figure data-type="image" tabindex="1"><img src="https://Helewo.github.io/post-images/1653919201618.png" alt="" loading="lazy"></figure>
+<ul>
+<li><strong>肌细胞</strong><br>
+又称肌纤维<br>
+呈圆柱形,为多核细胞<br>
+其膜简称<code>肌膜</code>,其细胞质称<code>肌浆</code>与<code>肌质</code><br>
+肌浆中含有平行排列的细丝状<code>肌原纤维</code></li>
+<li><strong>肌节</strong><br>
+相邻两条Z线之间的肌原纤维叫做<code>肌节</code><br>
+由1/2I带+A带+1/2I带组成<br>
+是骨骼肌纤维结构与功能的基本单位<br>
+明带--&gt;I带<br>
+暗带--&gt;A带</li>
+<li><strong>粗肌丝</strong><br>
+由<code>肌球蛋白</code>分子构成</li>
+<li><strong>细肌丝</strong><br>
+由<code>肌动蛋白</code>/<code>原肌球蛋白</code>/<code>肌钙蛋白</code>组成</li>
+<li><strong>闰盘</strong><br>
+相邻心肌纤维分支的连接处染色较深</li>
+<li><strong>二联体</strong><br>
+心肌结构<br>
+由于终池较少,一般横小管与终池紧贴为二联体</li>
+<li><strong>三联体</strong><br>
+骨骼肌结构<br>
+每条横小管与两侧终池组成三联体</li>
+</ul>
 <h1 id="-神经组织">- 神经组织</h1>
+<ul>
+<li><strong>尼氏体</strong><br>
+位于胞体与树突内<br>
+电镜下尼氏体由发达的粗面内质网与游离核糖体组成<br>
+具有活跃的合成蛋白质功能<br>
+其可作为判定是神经元功能状态的一种标志</li>
+<li><strong>神经元的组成</strong><br>
+神经元由胞体与突起组成,突起又可分为<code>树突</code>与<code>轴突</code><br>
+胞体中,细胞膜具有接受刺激,处理信息与传导冲动的功能<br>
+细胞质中含有尼氏体与神经原纤维,后者是神经元的细胞骨架,起支持作用<br>
+突起极大地扩展了神经元接受刺激的表面积<br>
+树突主要功能为接受刺激,传入信息<br>
+轴突主要功能为传导神经冲动</li>
+<li><strong>化学突触</strong><br>
+由<code>突触前成分</code>,<code>突出间隙</code>,<code>突出后成分</code>组成<br>
+通过突触神经元可以把信息传递给其他神经元与效应细胞</li>
+<li><strong>郞飞结</strong><br>
+来自于周围神经系统的有髓神经纤维<br>
+神经纤维上相邻施万细胞之间轴膜裸露较狭窄处,称<code>郞飞结</code></li>
+<li><strong>结简体</strong><br>
+两个郞飞结之间一段神经纤维称<code>结间体</code></li>
+</ul>
 <h1 id="-循环系统">- 循环系统</h1>
+<ul>
+<li><strong>心壁的结构</strong></li>
+<li><strong>血管壁的结构</strong></li>
+<li><strong>大动脉</strong></li>
+<li><strong>中动脉</strong></li>
+<li><strong>毛细血管的分类</strong></li>
+</ul>
 <h1 id="-消化系统">- 消化系统</h1>
+<ul>
+<li><strong>消化管壁的结构</strong></li>
+<li><strong>皱襞</strong></li>
+<li><strong>主细胞</strong></li>
+<li><strong>壁细胞</strong></li>
+<li><strong>肠绒毛</strong></li>
+<li><strong>潘氏细胞</strong></li>
+<li><strong>胰岛</strong></li>
+<li><strong>A细胞</strong></li>
+<li><strong>B细胞</strong></li>
+<li><strong>肝小叶</strong></li>
+<li><strong>中央静脉</strong></li>
+<li><strong>肝板</strong></li>
+<li><strong>肝索</strong></li>
+<li><strong>肝血窦</strong></li>
+<li><strong>胆小管</strong></li>
+<li><strong>门管区</strong></li>
+</ul>
 <h1 id="-呼吸系统">- 呼吸系统</h1>
+<ul>
+<li><strong>气管管壁的结构</strong></li>
+<li><strong>肺小叶</strong></li>
+<li><strong>肺呼吸部组成部分</strong></li>
+<li><strong>I型肺泡细胞</strong></li>
+<li><strong>II型肺泡细胞</strong></li>
+<li><strong>气——血屏障</strong></li>
+</ul>
 <h1 id="-泌尿系统">- 泌尿系统</h1>
+<ul>
+<li><strong>肾单位的组成</strong></li>
+<li><strong>滤过膜(滤过屏障)</strong></li>
+<li><strong>球旁复合体</strong></li>
+</ul>
 <h1 id="-男性生殖系统">- 男性生殖系统</h1>
+<ul>
+<li><strong>生精细胞</strong></li>
+<li><strong>精子发生</strong></li>
+<li><strong>雄激素</strong></li>
+<li><strong>睾丸间质细胞</strong></li>
+</ul>
 <h1 id="-女性生殖系统">- 女性生殖系统</h1>
+<ul>
+<li><strong>卵泡的三个阶段</strong></li>
+<li><strong>原始卵泡</strong></li>
+<li><strong>生长卵泡</strong></li>
+<li><strong>成熟卵泡</strong></li>
+<li><strong>透明带</strong></li>
+<li><strong>排卵</strong></li>
+<li><strong>黄体</strong></li>
+</ul>
 ]]></content>
     </entry>
     <entry>
